@@ -1,0 +1,21 @@
+﻿body {
+}
+
+
+.post_image > ul 
+{
+    list-style:none;
+    }
+    
+    
+.post_image > ul > li 
+ {
+     float:left;
+     margin-left:20px;
+     }  
+     
+  .post_userinfo
+  {
+     clear:both;
+      } 
+

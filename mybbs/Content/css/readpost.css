@@ -1,0 +1,31 @@
+﻿body {
+}
+
+
+.post_content > img
+{
+    max-width:400px;
+    max-heigth:500px;
+    }
+    
+.post_time_div 
+{
+    float:right;
+    }
+    
+    
+.post_title
+{
+    width:100%;
+    height:30px;
+    color:Red;
+    margin-top:20px;
+    font-size:18px;
+    }
+    
+    
+.post_reply
+{
+    
+    
+    }

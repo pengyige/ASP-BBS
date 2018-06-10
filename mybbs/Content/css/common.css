@@ -1,0 +1,22 @@
+﻿
+*
+{
+    margin:0;
+    padding:0;    
+    }
+
+
+.fl 
+{
+    float:left;
+    }
+    
+ .fr 
+  {
+      float:right;
+      }
+      
+ .clear
+   {
+       clear:both;
+       }

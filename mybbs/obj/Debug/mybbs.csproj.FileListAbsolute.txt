@@ -1,0 +1,20 @@
+C:\Documents and Settings\Administrator\桌面\bbs\mybbs\bin\mybbs.dll
+C:\Documents and Settings\Administrator\桌面\bbs\mybbs\bin\mybbs.pdb
+C:\Documents and Settings\Administrator\桌面\bbs\mybbs\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\bbs\mybbs\obj\Debug\mybbs.dll
+C:\Documents and Settings\Administrator\桌面\bbs\mybbs\obj\Debug\mybbs.pdb
+C:\Users\Administrator\Desktop\bbs\mybbs\bin\mybbs.dll
+C:\Users\Administrator\Desktop\bbs\mybbs\bin\mybbs.pdb
+C:\Users\Administrator\Desktop\bbs\mybbs\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\bbs\mybbs\obj\Debug\mybbs.dll
+C:\Users\Administrator\Desktop\bbs\mybbs\obj\Debug\mybbs.pdb
+C:\Users\Administrator\Desktop\bbs\bbs\mybbs\bin\mybbs.dll
+C:\Users\Administrator\Desktop\bbs\bbs\mybbs\bin\mybbs.pdb
+C:\Users\Administrator\Desktop\bbs\bbs\mybbs\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\bbs\bbs\mybbs\obj\Debug\mybbs.dll
+C:\Users\Administrator\Desktop\bbs\bbs\mybbs\obj\Debug\mybbs.pdb
+C:\Users\ssl\Desktop\bbs\mybbs\bin\mybbs.dll
+C:\Users\ssl\Desktop\bbs\mybbs\bin\mybbs.pdb
+C:\Users\ssl\Desktop\bbs\mybbs\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ssl\Desktop\bbs\mybbs\obj\Debug\mybbs.dll
+C:\Users\ssl\Desktop\bbs\mybbs\obj\Debug\mybbs.pdb
